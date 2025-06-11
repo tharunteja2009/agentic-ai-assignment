@@ -1,0 +1,14 @@
+pydantic
+python-dotenv
+langchain
+langchain-openai
+langchain-groq
+langchain-core
+langchain-community
+langchain-google-genai
+langgraph
+chromadb
+langchain-chroma
+langchain-huggingface
+duckduckgo-search
+graphviz
